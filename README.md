@@ -5,6 +5,7 @@
 ### Dependencies
 - curl
 - jq
+- clang
 
 ### To Use
 1. Dowload all files
